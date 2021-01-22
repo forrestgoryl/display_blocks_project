@@ -1,0 +1,27 @@
+#wrapper {
+    height: 820px;
+    width: 930px;
+    margin: 0px;
+    margin-left: 400px;
+    padding: 30px;
+    background-color: wheat;
+}
+#wrapper header {
+    width: 880px;
+    height: 80px;
+    margin: 0px;
+    padding: 20px;
+    vertical-align: top;
+    text-align: center;
+}
+#wrapper header img {
+    width: 100px;
+    height: 80px;
+    vertical-align: bottom;
+    display: inline-block;
+    background-color: white;
+}
+#wrapper header h1 {
+    display: inline-block;
+    vertical-align: bottom;
+}
